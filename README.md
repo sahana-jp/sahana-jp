@@ -1,63 +1,81 @@
-# 👋 Hi, I'm Sahana Jayaprakash
+# 👩‍💻 Sahana Jayaprakash
 
-🎯 **Database Developer | PL/SQL Specialist | Cloud Migration & Automation | Oracle AVDF | Python/Ruby/Shell**
-
-I'm a passionate Database Developer with over 13 years of experience in Oracle SQL, PL/SQL, and backend automation.  
-I specialize in database migration (Oracle 19c → 23ai), query optimization, and building automation utilities that make enterprise systems faster and more reliable.
+**Senior Software Engineer | Database Developer | Ruby & PL/SQL Specialist**  
+📍 Bangalore, India | ✉️ sanajp044@gmail.com | ☎️ +91 9620244570  
 
 ---
 
-### 🧩 Current Focus
-- Oracle Database 19c → 23ai Migration Projects  
-- PL/SQL Performance Tuning and Package Optimization  
-- Database Automation using Python and Ruby  
-- Cloud Database Deployment on OCI, AWS, and Azure  
+## 🧩 About Me
+
+I am a **Database Developer and Senior Software Engineer** with over **13 years of experience** in Oracle SQL, PL/SQL, and automation development.  
+My work focuses on building secure, high-performance backend systems, developing **Ruby-based automation tools**, and executing complex database migrations across **on-prem and cloud environments** (OCI, AWS, Azure).
+
+I specialize in:
+- Oracle database migration (19c → 23ai) using **AutoUpgrade**
+- Backend automation, diagnostics, and CLI utilities in **Ruby**
+- Enterprise data validation and performance optimization in **PL/SQL**
+- **Cloud enablement** for Oracle products and Linux image automation
+- Cross-platform development and DevOps integration
 
 ---
 
-### 📚 Learning Journey
-I’ve started a structured 6-month journey to strengthen my database development skills.  
-Each month, I’ll work on a new project — building my GitHub portfolio as I learn.
+## 🔧 Technical Skills
 
-| Month | Project | Description | Status |
-|--------|----------|-------------|---------|
-| 1 | SQL Basics Practice | Foundational SQL scripts & schema design | ⏳ Upcoming  |
-| 2 | Employee Management PL/SQL | Modular PL/SQL package for HR data | ⏳ Upcoming |
-| 3 | SQL Performance Lab | Query tuning examples & analysis | ⏳ Upcoming |
-| 4 | DB Health Monitor | Python-based monitoring & diagnostics tool | ⏳ Upcoming |
-| 5 | DB Migration Validation Framework | Schema & data comparison automation | ⏳ Upcoming |
-| 6 | Database Audit Dashboard | Dashboard visualizing DB metrics | ⏳ Upcoming |
+### 💾 Databases
+- Oracle SQL | PL/SQL | MySQL  
+- Database Design, Query Optimization, Data Migration  
+- Oracle Audit Vault Server (AVDF), Database Firewall  
 
----
+### 💻 Programming & Scripting
+- **Ruby**, **Python**, **Shell Scripting**  
+- REST API integration and CLI utility development  
+- Automation framework creation for cloud and infrastructure  
 
-### 🧠 Current Focus
-- Deepening SQL and PL/SQL design skills  
-- Automating database tasks using Python  
-- Learning Oracle performance tuning (AWR, ASH, indexing)  
-- Practicing cloud database deployments (OCI / AWS / Azure)
+### ☁️ Cloud & DevOps
+- **Oracle Cloud Infrastructure (OCI)** | **AWS** | **Azure**  
+- Automation tools: Chef, Rundeck, Spinnaker  
+- Monitoring: Splunk, Zabbix  
 
 ---
 
-### 🧰 Tech Stack
-- **Databases:** Oracle SQL, PL/SQL, MySQL  
-- **Scripting:** Python, Ruby, Shell  
-- **Cloud:** Oracle Cloud (OCI), AWS, Azure  
-- **DevOps Tools:** Git, SQL Developer, Splunk, Chef  
+## 🏗️ Key Projects
+
+### 🔹 Oracle AVDF Cloud Enablement
+- Transformed Oracle Audit Vault & Database Firewall (AVDF) from an on-prem product to support **AWS, Azure, and OCI**.
+- Developed **automated Ruby and shell utilities** for daily image generation, reducing manual effort and improving release cycles.
+
+### 🔹 Ruby CLI Utilities
+- Designed a **Ruby-based command-line tool** to manage product configuration (e.g., NTP setup, FIPS mode).
+- Owned the entire lifecycle: requirements → design → development → testing → documentation.
+
+### 🔹 Database Migration Framework
+- Executed Oracle 19c → 23ai migration using **AutoUpgrade**, ensuring zero downtime and data integrity.
+- Created **PL/SQL validation scripts** for post-upgrade testing and schema consistency checks.
+
+### 🔹 Diagnostics & Health Check Automation
+- Built a **Ruby diagnostics utility** that aggregates logs, configurations, and system data for AVDF.
+- Enhanced system reliability and reduced support turnaround by automating data collection.
 
 ---
 
-### 🏅 Certifications (Planned & Achieved)
-- ✅ Oracle Database SQL Certified Associate (1Z0-071)  
-- ⏳ Oracle PL/SQL Developer Professional (1Z0-149)  
-- ☁️ OCI Architect Associate *(in progress)*  
+## 🎓 Education
+
+**B.E. in Information Technology**  
+_Nitte Meenakshi Institute of Technology_
+
+**Academic Projects (Ruby-based):**
+- **Telecommunication Database Management System** — Ruby + MySQL + Qt3  
+- **MAC Address Finder** — Ruby client-server networking app  
+- **Data Migration System** — Ruby utility for dynamic resource transfer  
 
 ---
 
-### 📫 Let’s Connect
-- 📧 [sanajp044@gmail.com](mailto:sanajp044@gmail.com)
-- 💼 [LinkedIn – Sahana Jayaprakash](https://www.linkedin.com/in/sahana-jayaprakash-726a11143)
-- 🌐 [GitHub Portfolio](https://github.com/sahana-jp)
+## 🌐 GitHub Focus
+
+Here you’ll find examples of:
+- Ruby scripts for automation, configuration, and diagnostics  
+- PL/SQL utilities for Oracle database performance tuning  
+- Cloud image generation and deployment scripts  
+- REST API integration samples and CLI tools  
 
 ---
-
-✨ *“Data drives everything — designing it right drives success.”*
